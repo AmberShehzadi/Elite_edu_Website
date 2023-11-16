@@ -1,0 +1,13 @@
+  .form-control::placeholder {
+    font-size: 0.95rem;
+    color: rgb(149, 133, 133);
+    font-style: italic;
+  }
+  .face{
+      height: 100px;
+      width: 100px;
+  }
+  
+  .form-control.shadow-0:focus {
+    box-shadow: rgb(126, 126, 126);
+  }

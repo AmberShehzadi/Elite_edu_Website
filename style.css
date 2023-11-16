@@ -1,0 +1,49 @@
+* {
+  font-weight: 700;
+}
+
+@media only screen and (min-width: 996px) {
+  .navstyle {
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+  }
+}
+
+.navstyle a {
+  color: rgb(0, 0, 0);
+}
+.navstyle img {
+  width: 60px;
+}
+.navstyle a:hover {
+  border-bottom: solid 3px rgb(255, 255, 255);
+}
+.dropdown-menu {
+  background-color: rgb(255, 255, 255);
+}
+.navbar-toggler-icon {
+  background-image: url(icon.png);
+  width: 30px;
+  height: 30px;
+}
+.navstyle {
+  background-color: none;
+}
+
+p {
+  text-align: justify;
+}
+.foot{
+  background-color: black;
+}
+.btn-outline-light
+{
+  background-color: #244055;
+  border-color: black;
+}
+.form-control{
+  border: 1px solid #000000;
+}
